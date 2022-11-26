@@ -19,6 +19,8 @@ Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
 ## App Services URL : https://pet-store-web.azurewebsites.net/
 
+## GitHub URL : https://khushnuda123.github.io/pet-shop/
+
 ## Home
 <img width="913" alt="image" src="https://user-images.githubusercontent.com/116863694/203973815-b3083eda-f6f7-4aad-a434-50727027c608.png">
 
